@@ -1,0 +1,53 @@
+---
+title: Pike is a fun fish
+date: 2023-09-01 11:29:00 -500
+categories: [programming,Pike]
+tags: [langs,software,programming]
+---
+
+# Pike language for web dev
+Pike is a cool language that can be used for web dev, I was experimenting with serving web files with Pike!
+
+For those that don't know what Pike language is 🤔🚀
+
+Pike is a 🚀 dynamic programming language developed at the University of California, Santa Cruz. It's like a hidden gem in the world of programming 💎, not as well-known as some others, but powerful in its own right.
+
+👨‍💻 Pike was designed for ease of use and efficiency, making it suitable for various applications, including systems programming and web development.
+
+Some key features of Pike include:
+- 🧩 Dynamic Typing: Pike employs dynamic typing, allowing flexibility in variable types.
+- 📚 Extensive Libraries: It comes with a rich set of libraries to facilitate different tasks.
+- 🌐 Network Capabilities: Pike supports networking and is useful for creating server-side applications.
+- 🧠 Object-Oriented: It's an object-oriented language, making it modular and organized.
+- 🌍 Cross-Platform: Pike can run on various operating systems, ensuring versatility.
+
+While Pike might not be as famous as some other languages, it's a versatile tool for developers who appreciate its simplicity and efficiency. Give it a try and unlock its potential! 🛠️
+___
+### using pike to present  a html file
+
+```java
+#!/usr/bin/env pike
+
+// Load required modules
+int main() {
+    // Import the modules
+    Stdio.File html_file = Stdio.File("/path/to/your/file.html", "r");
+
+    // Set the HTTP headers
+    Protocols.HTTP.Query response = Protocols.HTTP.Query();
+    response->set_header("Content-Type", "text/html");
+
+    // Read the HTML content from the file
+    string html_content = html_file->read(-1);
+
+    // Set the response content
+    response->set_content(html_content);
+
+    // Print the HTTP response
+    write(response->format());
+
+    return 0;
+}
+
+```
+that's how you would present a HTML file with pike, pike has a small history for creating dynamic web applications... the practice of using the code above is not common or encouraged but it shows how powerful pike can be.
