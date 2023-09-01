@@ -1,0 +1,16 @@
+---
+title: welcome
+date: 2023-09-01 10:00:00 -500
+categories: [misc,other]
+tags: [misc,other,general]
+---
+
+# Welcome!
+
+this is a note taking app related to everythng development related for dusk and rain studios
+## Access
+This site can be edited by:
+
+- Ant softworks
+- Dusk & Rain Studios
+- Breaking Rain Security
