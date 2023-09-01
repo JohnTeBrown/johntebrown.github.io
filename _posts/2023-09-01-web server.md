@@ -1,7 +1,7 @@
 ---
 title: Pike is a fun fish
 date: 2023-09-01 11:29:00 -500
-categories: [programming,Pike]
+categories: [programming,pike]
 tags: [langs,software,programming]
 ---
 
