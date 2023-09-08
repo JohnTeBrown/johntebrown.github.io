@@ -20,13 +20,11 @@ static generators provide easy and simple ways to host your site on a domain, a 
 >Github pages</a>
 >
 > <a href="https://gitlab.com/pages">
->Gitlab pages</a>
+>Gitlab pages</a> 
+
 ## VPS's
 
 VPS provide serverside acces
-and can be used to do the same things static website generators do, serverside access is such a big deal because it allows for the usage of more advanced tools like Node.JS ruby with Ruby On Rails and Flask or Django with python and much more, it also allows for the usage of more advanced managment tools such as using admin panels like Plesk or Cpanel. 
+and can be used to do the same things static website generators do, serverside access is such a big deal because it allows for the usage of more advanced tools like Node.JS ruby with Ruby On Rails and Flask or Django with python and much more, it also allows for the usage of more advanced managment tools such as using admin panels like Plesk or Cpanel.
 
-Some big VPS providers inlcude: Namecheap, Hostinger, AWS, Google Cloud, Microsoft Azure and Linode.
-
-
-
+VPS overall offer much more than standard static site generators.
