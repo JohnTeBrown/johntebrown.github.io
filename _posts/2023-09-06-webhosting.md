@@ -14,6 +14,7 @@ but the more advanced response will contain questions based on what your using, 
 static generators provide easy and simple ways to host your site on a domain, a decent amount of webhosts are static site generators like the one your viewing your viewing this article on, static site generatos cannot display anything else other than vanilla html and css, they don't provide serverside access meaning Node.Js won't work.. this limits how flexable your website can be.
 
 > *some examples include*
+>
 > <a href="https://pages.github.com/">
 >Github pages</a>
 >
