@@ -7,7 +7,6 @@ tags: [greetings,misc]
 
 # VPS vs Static website generators
 this is a complex topic that has a lot of turns and the simple response from most will be "it depends on your needs"
-
 but the more advanced response will contain questions based on what your using, budget what your trying to do and what your using to build the application that needs hosted
 
 ## static website generators
