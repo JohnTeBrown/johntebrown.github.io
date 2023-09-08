@@ -21,7 +21,6 @@ static generators provide easy and simple ways to host your site on a domain, a 
 >
 > <a href="https://gitlab.com/pages">
 >Gitlab pages</a>
-> <a href="https://firebase.google.com/">Firebase </a>
 ## VPS's
 
 VPS provide serverside acces
