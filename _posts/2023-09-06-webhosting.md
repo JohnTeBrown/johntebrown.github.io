@@ -1,5 +1,5 @@
 ---
-title: VPS vs static generators
+title: VPS vs static-hosting
 date: 2023-09-06 10:00:00 -500
 categories: [other, general]
 tags: [greetings,misc]
